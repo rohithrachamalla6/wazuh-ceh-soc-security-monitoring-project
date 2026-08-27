@@ -198,5 +198,4 @@ training environment as part of the CEH course.
 
 ## Project Repository
 
-GitHub repository: [*Add your GitHub URL here after creating the
-repository.*](https://github.com/rohithrachamalla6/wazuh-ceh-soc-security-monitoring-project/tree/main)
+GitHub repository:](https://github.com/rohithrachamalla6/wazuh-ceh-soc-security-monitoring-project/tree/main)
